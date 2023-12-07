@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JoonKi%20&fontSize=90)
-![header](https://capsule-render.vercel.app/api?text=MyTech!&fontAlign=70)
+![header](text=MyTech!&fontAlign=70)
 
 <!--
 **joonki53/joonki53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
